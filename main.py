@@ -1,5 +1,5 @@
 import argparse
-from dictionary import latin_script
+from latino import latin_script
 
 
 def permutate(domain, tld, punycode=False):
